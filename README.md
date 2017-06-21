@@ -1,0 +1,1 @@
+Sends emails based on their status in spreadsheet. Setup up with email.cz SMTP
